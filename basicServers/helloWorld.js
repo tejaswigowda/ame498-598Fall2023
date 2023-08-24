@@ -1,3 +1,6 @@
+// this is a basic server that sends a response of "Hello World" to the client
+
+
 var http = require("http");
 
 var server = http.createServer( function (req, res) { // req -> request object; res -> response object
