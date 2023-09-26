@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 3
 `Due September 28th, before class`
 
 
@@ -19,7 +19,7 @@ Section formatting. Use of table, image, hyperlinks and lists.
 
 
 ## Submission
-Code on Github 
+Code on Github, screenshot of browser (page served from ec2)
 
 
 ## Reference
