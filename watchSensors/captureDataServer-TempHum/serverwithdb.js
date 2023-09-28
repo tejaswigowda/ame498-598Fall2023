@@ -9,7 +9,7 @@ var port = 1234;
 
 var t, h;
 
-var db = MS.db("mongodb://13.56.213.25:27017/sensorData");
+var db = MS.db("mongodb://127.0.0.1:27017/sensorData");
 
 app.get("/", function (req, res) {
     res.redirect("index.html")
