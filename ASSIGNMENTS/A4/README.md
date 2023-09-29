@@ -8,7 +8,7 @@
 - Write a step-by-step guide (in html; use `captureDataServer-TempHum/public/index.html`) and fill out 
 
 ```
-<div id="turorial">
+<div id="tutorial">
 
 
 </div>
