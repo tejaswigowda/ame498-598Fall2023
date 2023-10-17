@@ -13,3 +13,6 @@
 - Screenshot of browser (`graph.html` page served from ec2)
 
 
+
+P.S: 2 extra points for accounting for the http send delay into the 5s send interval.
+
