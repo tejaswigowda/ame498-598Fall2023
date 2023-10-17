@@ -3,7 +3,7 @@
 
 
 ## Tasks
-- Starting with the code in `WeatherStation`) please remove all `delay()` statements. Use `millis()` in order to read and send data from  sensor every 5 *seconds*
+- Starting with the code in `WeatherStation`) please remove all `delay(5000);` statement in `loop()`. Use `millis()` in order to read and send data from  sensor every 5 *seconds*
 
 
 
