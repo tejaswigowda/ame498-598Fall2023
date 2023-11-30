@@ -3,7 +3,7 @@
 ## Deliverables:
 
 ## Presentation - Thursday Nov 31 [last day of classes] (20 points/ A7)
-Please prepare for a demonstration of your working final project. You will each have approx 5 mins for each individual presentation. Please make sure you have all your technology set up in advance of class - we will not have much transition time between presentations!
+Please prepare for a demonstration of your working final project. You will each have approx 5 mins for each individual presentation. Please submit either a slide deck or a video of your presentation.
 
 ## Paper - due Monday Dec 5, by midnight (20 points/ A8)
 Template: https://docs.google.com/document/d/1eZmg4sGYKb54-u1aB1bUp3vxJyYlzFBRAI1mNK-S468/edit
